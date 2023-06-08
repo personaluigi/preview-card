@@ -94,13 +94,3 @@ main {
     background-color: hsl(158, 37%, 16%);
     transition: 0.2s;
 }
-
-.attribution {
-    text-align: center;
-    font-size: 15px;
-    padding: 10px;
-}
-
-div>a {
-    color: black;
-}
