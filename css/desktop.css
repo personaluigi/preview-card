@@ -1,0 +1,38 @@
+@media  screen and (min-width: 990px) {
+    .box {
+        width: 700px;
+        height: 500px;
+    }
+    
+    .img {
+        background-image: url(../images/image-product-desktop.jpg);
+        background-size: cover;
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+
+    .main {
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+
+    .main>h1 {
+        font-size: 45px;
+        line-height: 43px;
+    }
+
+    #ip1 {
+        padding-bottom: 25px;
+    }
+
+    #ip2 {
+        padding-top: 25px;
+    }
+
+    .price {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+}
